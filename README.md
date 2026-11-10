@@ -2,7 +2,7 @@
 
 国风个人网站，结合个人介绍、影视剪辑经历、国学兴趣和可探索的三维山水小园。
 
-线上网站：https://jin-xiujuan.carvedchaff1.chatgpt.site/
+线上网站：[访问金中昱的个人网站](https://jin-zhongyu-inner-landscape.carvedchaff1.chatgpt.site)
 
 ## 本地运行
 
