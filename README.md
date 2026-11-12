@@ -12,6 +12,13 @@
 
 仓库中的 HTML 文件需要下载或通过本地服务器打开；GitHub 文件预览不会直接运行网页。
 
+## 个人介绍 PPT
+
+已保存第一版「暖黑鎏金」，共 7 页，可编辑。
+
+- [下载第一版 PPTX](presentations/01-warm-black-gold/金中昱个人介绍_暖黑鎏金.pptx?raw=true)
+- [查看全 7 页预览与说明](presentations/01-warm-black-gold/README.md)
+
 ## 本地预览
 
 无需安装 Node.js 依赖。将本仓库下载或克隆到本地，在仓库根目录执行：
