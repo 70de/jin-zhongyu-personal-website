@@ -19,6 +19,13 @@
 - [下载第一版 PPTX](presentations/01-warm-black-gold/金中昱个人介绍_暖黑鎏金.pptx?raw=true)
 - [查看全 7 页预览与说明](presentations/01-warm-black-gold/README.md)
 
+## 网站与 PPT 讲解视频
+
+约 2 分钟的 1080p／60fps 讲解，含 AI 女声、字幕与配乐。
+
+- [下载讲解视频 MP4](videos/website-ppt-explainer/金中昱_个人网站与PPT讲解_1080p.mp4?raw=true)
+- [查看封面、逐镜预览及完整包](videos/website-ppt-explainer/README.md)
+
 ## 本地预览
 
 无需安装 Node.js 依赖。将本仓库下载或克隆到本地，在仓库根目录执行：
